@@ -23,3 +23,10 @@ roster = roster.split()
 import random
 
 print(random.choice(roster)) 
+
+# TO-DO: Create a dictionary to record times of being called
+# to avoid being called too many times.
+
+# start-up
+
+# not in the market, to avoid competition

@@ -24,4 +24,5 @@ def main():
 
 if __name__ == '__main__':
     # this will only be executed when running this file
+    # it does not affect other files that import current module
     main() 
