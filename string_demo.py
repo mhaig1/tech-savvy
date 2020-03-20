@@ -23,3 +23,10 @@ print(f'{actor} wins Best Actor for {movie} at Golden Globes {year}.')
 pi = 3.14159265358
 
 print(f'Pi equals {pi:.3}')
+
+
+print(str(2**100))
+
+
+for i in range(10):
+    
