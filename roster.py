@@ -6,7 +6,7 @@ Andrea
 Jinyi
 Ivory
 Smit
-Adrianna Lucia
+Adrianna
 Mingqi
 Meixi
 Nicholas
@@ -24,8 +24,7 @@ import random
 
 print(random.choice(roster)) 
 
-# TO-DO: Create a dictionary to record times of being called
-# to avoid being called too many times.
+# TODO: Create a dictionary to record times of being called to avoid being called too many times.
 
 # start-up
 
