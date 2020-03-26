@@ -29,4 +29,4 @@ print(str(2**100))
 
 
 for i in range(10):
-    
+    print(i)
