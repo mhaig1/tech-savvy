@@ -26,6 +26,3 @@ print(random.choice(roster))
 
 # TODO: Create a dictionary to record times of being called to avoid being called too many times.
 
-# start-up
-
-# not in the market, to avoid competition
